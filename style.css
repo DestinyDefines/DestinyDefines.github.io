@@ -1,0 +1,67 @@
+body {
+  background: antiquewhite;
+}
+
+.content{
+  border-style:outset;
+  border-color: burlywood;
+  text-align: center;
+}
+
+p {
+  color:darkcyan;
+  text-align: center;
+}
+
+table{
+  color: lightseagreen;
+}
+
+h1{
+  color: cadetblue;
+  border-color: burlywood;
+  border-style: double;
+  text-align: center;
+  background: floralwhite;
+}
+
+h2{
+  color: cadetblue;
+  font-style: oblique;
+}
+
+h3{
+  color: darkseagreen;
+  text-decoration:underline double;
+}
+
+h4{
+  color: lightseagreen;
+  font-family: monospace;
+}
+
+a{
+  text-decoration: none;
+  font-family: fantasy;
+}
+
+a:link{
+  color: black;
+}
+
+a:hover{
+  color: dimgrey;
+}
+
+a:active{
+  color: lightgrey;
+}
+button{
+  border-color: antiquewhite;
+  background: white;
+}
+
+ul{
+  color:lightseagreen;
+  font-family: monospace;
+}
